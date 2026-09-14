@@ -50,4 +50,4 @@ Minor in Computer Science Engineering
 ## project presentation
 
 
-[View / Download SEAQUAKE ALARM PDF](./SEAQUAKE_ALARM.pdf)
+[View / Download SEAQUAKE ALARM PDF] (./SEAQUAKE ALARM .pdf)
