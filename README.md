@@ -48,4 +48,4 @@ The project was simulated and tested using Autodesk Tinkercad, and the output re
 B.Tech – Electronics & Communication Engineering  
 Minor in Computer Science Engineering
 ## project presentation
-[View / Download SEAQUAKE ALARM PDF](./SEAQUAKE%20ALARM.pdf)
+[View / Download SEAQUAKE ALARM.PDF](./SEAQUAKE%20ALARM.pdf)
